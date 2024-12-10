@@ -42,14 +42,13 @@ at 125 E 8th Ave.
 * [Traffic count data](https://www.lcog.org/thempo/page/traffic-count-data)
 * [Transit data](https://www.lcog.org/thempo/page/tranit-data)
 
-
 ## Businesses
 * [Oregon state business records](https://egov.sos.state.or.us/br/) Search by person or business name
 * [Open database of the corporate world](https://opencorporates.com)
 
 ## Current Census 
 * [Census Aggregator: Downtown Eugene](https://www.city-data.com/neighborhood/Downtown-Eugene-OR.html)
-* [Census Reporter](https://censusreporter.org) Independant project to make American Community Survey data easier to use.
+* [Census Reporter](https://censusreporter.org) Independent project to make American Community Survey data easier to use.
 * [IPUMS](https://www.ipums.org/) Census and survey data from around the world. Requires registration.
 * [American Community Survey](https://www.census.gov/programs-surveys/acs/) Census Bureau spot surveys - transportation, housing, etc.
 
@@ -96,19 +95,20 @@ ancestry.com free at some libraries.
 * [Eugene Register-Guard archives 2001-present](https://registerguard.newsbank.com/) Requires free account to search; Paid to view articles
 * [University of Oregon Historical Oregon Newspapers](https://oregonnews.uoregon.edu/) Eugene Guard, Eugene Emerald, Springfield News
 
-## Emergency Services
+## Police, Fire, EMS, Jail
 
-* [Lane County Sherriff Incident Map](http://map.citizenserviceportal.com/home/agency?agencycode=EGS)
+* [Lane County Sheriff Incident Map](http://map.citizenserviceportal.com/home/agency?agencycode=EGS)
 * [Eugene Police Dispatch Log](https://coeapps.eugene-or.gov/EPDDispatchLog/Search) Nov 19, 2013 to present
 * [Eugene-Springfield Fire EMS CAD calls](https://coeapps.eugene-or.gov/ruralfirecad) Nov 19, 2013 to present
 * [Springfield Police Dispatch Log](https://coeapps.eugene-or.gov/SPDDispatchLog/Search) Dec 12, 2009 to present
+* [Lance County jail booking search](https://inmateinformation.lanecounty.org/Home/BookingSearchQuery) Unclear how far back this data goes.
 * [EPD, SPD, and Fire/EMS logs in csv form](https://github.com/nbirnel/eugene-or-police-fire-ems-call-logs/releases) Third party scrape of above data.
 * [Crime Mapping](https://www.crimemapping.com/map/agency/668) Private organization, mapping data from EPD.
 
 ## News Sources
 
 ### Print
-* [Eugene Weekly](https://eugeneweekly.coma/) Locally owned "alternative" weekly. Events, some news, milktoast liberal editorial stance.
+* [Eugene Weekly](https://eugeneweekly.coma/) Locally owned "alternative" weekly. Events, some news, mildly liberal editorial stance.
 * [Daily Emerald](https://dailyemerald.com/) UO student newspaper. Some city news reporting.
 * [The Torch](https://lcctorch.com/) LCC student newspaper - mostly school-oriented.
 * [Register-Guard](https://www.registerguard.com/) Gutted shell of a newspaper owned by Gannet. Occaisionally still does journalism.
@@ -131,10 +131,10 @@ ancestry.com free at some libraries.
 * [KLSR 24](http://www.oregonsfox.com/) FOX, owned by Cox Media Group.
 ### Internet-only
 * [Whole Community News](https://wholecommunity.news) Project of non-profit Corporation for Public Community Newspapers. Carries KEPW content, context-less transcripts of public meetings, and editorials.
-* [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independant news out of Oakridge.
+* [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independent news out of Oakridge.
 
 ## Miscellaneous
 * [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/)
-* [OSint - how to reasearch anything](https://osintframework.com/)
+* [OSint - how to research anything](https://osintframework.com/)
 * [Oregon Campaign Finance data](https://secure.sos.state.or.us/orestar/)
