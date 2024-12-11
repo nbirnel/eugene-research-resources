@@ -133,8 +133,16 @@ ancestry.com free at some libraries.
 * [Whole Community News](https://wholecommunity.news) Project of non-profit Corporation for Public Community Newspapers. Carries KEPW content, context-less transcripts of public meetings, and editorials.
 * [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independent news out of Oakridge.
 
+## Elections
+* [Lane County Election Results](https://www.lanecounty.org/government/county_departments/county_administration/operations/county_clerk/elections/historical_election_details) Historical and current. At least some by precinct.
+* [Lane County Precinct Maps](https://www.lanecounty.org/government/county_departments/county_administration/operations/county_clerk/elections/precinct_maps_2020) 
+* [Oregon Campaign Finance data](https://secure.sos.state.or.us/orestar/) By donor, by organization, by election, etc. 
+* [Ballotpedia](https://ballotpedia.org/Main_Page) "Digital encyclopedia of American politics". Has some [Lane County information](https://ballotpedia.org/Lane_County,_Oregon,_elections,_2022), but minimal or no Eugene-specific.
+* [Federal Election Commission: How to research public records](https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/)
+* [OpenSecrets](https://www.opensecrets.org/donor-lookup) Nonprofit that tracks money in U.S. politics.
+
+
 ## Miscellaneous
 * [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/)
 * [OSint - how to research anything](https://osintframework.com/)
-* [Oregon Campaign Finance data](https://secure.sos.state.or.us/orestar/)
