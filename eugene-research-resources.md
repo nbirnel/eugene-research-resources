@@ -24,6 +24,7 @@ at 125 E 8th Ave.
   - [Urban Forest](https://mapping.eugene-or.gov/apps/8c2c6e0c1599456dabd1f18fbbf6676c/explore)
   - [Zoning](https://mapping.eugene-or.gov/apps/972e17b24da94f849c6068872108968f/explore)
   - [Ward Map with 2020 Census blocks](https://mapping.eugene-or.gov/apps/4a0fa873da3146f38413c060c3f30e4a/explore)
+* [Find your Ward and Neighborhood Association](https://www.eugene-or.gov/532/Find-Your-Ward)
 * [Lane County Zone and Plan Map Viewer](https://lcmaps.lanecounty.org/LaneCountyMaps/ZoneAndPlanMapsApp/index.html)
 * [Lane County SIDO Maps](https://lcmaps.lanecounty.org/LaneCountyMaps/SIDOMapsApp/index.html) Aerial photos and more
 
