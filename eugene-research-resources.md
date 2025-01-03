@@ -105,6 +105,8 @@ ancestry.com free at some libraries.
 * [Springfield Police Dispatch Log](https://coeapps.eugene-or.gov/SPDDispatchLog/Search) Dec 12, 2009 to present
 * [Lance County jail booking search](https://inmateinformation.lanecounty.org/Home/BookingSearchQuery) Unclear how far back this data goes.
 * [EPD, SPD, and Fire/EMS logs in csv form](https://github.com/nbirnel/eugene-or-police-fire-ems-call-logs/releases) Third party scrape of above data.
+* [Eugene Police Public Records](https://www.eugene-or.gov/916/Public-Records-Office)
+* [Eugene Police Crime Statistics](https://www.eugene-or.gov/542/Crime-Statistics)
 * [Crime Mapping](https://www.crimemapping.com/map/agency/668) Private organization, mapping data from EPD.
 
 ## News Sources
@@ -145,6 +147,8 @@ ancestry.com free at some libraries.
 
 
 ## Miscellaneous
+* [City of Eugene Public Records Request](https://eugeneor.justfoia.com/publicportal/home/newrequest) Police, planning, fire marshall, and other. Fees.
 * [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/)
 * [OSint - how to research anything](https://osintframework.com/)
+* [Oregon Health Authority Vital Statistics](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/Pages/index.aspx) Births, deaths, etc, and some nice maps
