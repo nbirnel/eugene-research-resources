@@ -27,6 +27,7 @@ at 125 E 8th Ave.
 * [Find your Ward and Neighborhood Association](https://www.eugene-or.gov/532/Find-Your-Ward)
 * [Lane County Zone and Plan Map Viewer](https://lcmaps.lanecounty.org/LaneCountyMaps/ZoneAndPlanMapsApp/index.html)
 * [Lane County SIDO Maps](https://lcmaps.lanecounty.org/LaneCountyMaps/SIDOMapsApp/index.html) Aerial photos and more
+* [Lane County Web App Tutorial](https://lcmaps.lanecounty.org/GISHelp/Tutorial/WebApplicationTutorialWAB.pdf)
 
 ### Street Classifications
 * [Eugene Street Classification Map](https://www.eugene-or.gov/DocumentCenter/View/43142/Eugene_Street_Classification_Map)
