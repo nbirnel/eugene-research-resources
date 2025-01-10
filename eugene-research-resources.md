@@ -48,6 +48,7 @@ at 125 E 8th Ave.
 ## Businesses
 * [Oregon state business records](https://egov.sos.state.or.us/br/) Search by person or business name
 * [Open database of the corporate world](https://opencorporates.com)
+* [Oregon All Active Businesses](https://data.oregon.gov/business/Active-Businesses-ALL/tckn-sxa6/data) Filter Oregon businesses and export in various data formats. Amazing.
 
 ## Current Census 
 * [Census Aggregator: Downtown Eugene](https://www.city-data.com/neighborhood/Downtown-Eugene-OR.html)
