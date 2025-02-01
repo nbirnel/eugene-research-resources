@@ -15,7 +15,7 @@ For historical property information,
 visit the [Lane County Public Research Library](https://www.lanecounty.org/cms/One.aspx?portalId=3585881&pageId=4116371)
 at 125 E 8th Ave.
 
-* [Lane County Property Sales Map](https://lcmaps.lanecounty.org/LaneCountyMaps/PropertySales/index.html) Last three years
+* [Lane County Property Sales Map](https://lcmaps.lanecounty.org/LaneCountyMaps/PropertySales/index.html) Last three years. Exportable as csv.
 * [Lane County Surveyor's Images and Documents Online](http://apps.lanecounty.org/SIDO/default.aspx)
 
 ## Maps
@@ -59,6 +59,7 @@ at 125 E 8th Ave.
 ## Weather & Air
 * [National Weather Service Eugene Forecast](https://forecast.weather.gov/MapClick.php?lat=44.0522&lon=-123.0912)
 * [Lane Regional Air Protection Agency](https://www.lrapa.org/air-quality-protection/current-aqi/) Air quality monitors, and exportable search data.
+* [Lane Regional Air Protection Agency](https://www.lrapa.org/air-quality-protection/current-aqi/) Air quality monitors, and exportable search data.
 * [Purple Air](https://map.purpleair.com/air-quality-standards-us-epa-aqi?opt=%2F1%2Flp%2Fa10%2Fp604800%2FcC0#11.35/44.0553/-123.0899) For-profit air sensor company, publishes maps of its sensor results.
 * [National Weather Service Eugene Station](https://www.weather.gov/nwr/sites?site=KEC42) KEC42 Broadcasting at 162.400
 
@@ -97,7 +98,11 @@ ancestry.com free at some libraries.
 
 * [Google scans of Eugene Register-Guard, 1867-2008](https://books.google.com/books?id=H9ZVAAAAIBAJ)
 * [Eugene Register-Guard archives 2001-present](https://registerguard.newsbank.com/) Requires free account to search; Paid to view articles
-* [University of Oregon Historical Oregon Newspapers](https://oregonnews.uoregon.edu/) Eugene Guard, Eugene Emerald, Springfield News
+* [Eugene Register-Guard microfilm 1867-2018](https://eugene.libguides.com/magazines/newspapers-eugene) At the Downtown Library
+* [Eugene Register-Guard full text 2001-present, exact replica 2019-present](https://eugene.libguides.com/registerguard) Requires a library card
+* [Eugene Weekly microfilm 1982-2014](https://eugene.libguides.com/magazines/newspapers-eugene) At the Downtown Library
+* [University of Oregon Historical Oregon Newspapers](https://oregonnews.uoregon.edu/) Eugene Guard, Eugene Emerald, Springfield News, others
+
 
 ## Police, Fire, EMS, Jail
 
@@ -116,7 +121,6 @@ ancestry.com free at some libraries.
 ### Print
 * [Eugene Weekly](https://eugeneweekly.coma/) Locally owned "alternative" weekly. Events, some news, mildly liberal editorial stance.
 * [Daily Emerald](https://dailyemerald.com/) UO student newspaper. Some city news reporting.
-* [The Torch](https://lcctorch.com/) LCC student newspaper - mostly school-oriented.
 * [Register-Guard](https://www.registerguard.com/) Gutted shell of a newspaper owned by Gannet. Occaisionally still does journalism.
 * [The Chronicle](https://www.chronicle1909.com/) Locally owned "news source for the Southern Willamette Valley" - but not Eugene.
 * [Cottage Grove Sentinel](https://www.cgsentinel.com/) Locally owned.
@@ -150,7 +154,7 @@ ancestry.com free at some libraries.
 
 ## Miscellaneous
 * [City of Eugene Public Records Request](https://eugeneor.justfoia.com/publicportal/home/newrequest) Police, planning, fire marshall, and other. Fees.
-* [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account
+* [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account. Has an API.
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/)
 * [OSint - how to research anything](https://osintframework.com/)
 * [Oregon Health Authority Vital Statistics](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/Pages/index.aspx) Births, deaths, etc, and some nice maps
