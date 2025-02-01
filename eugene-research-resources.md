@@ -19,7 +19,7 @@ at 125 E 8th Ave.
 * [Lane County Surveyor's Images and Documents Online](http://apps.lanecounty.org/SIDO/default.aspx)
 
 ## Maps
-* [City of Eugene Mapping Hub](https://mapping.eugene-or.gov/)
+* [City of Eugene Mapping Hub](https://mapping.eugene-or.gov/) About 90 maps, many with downloadable data sets: streets, parks, sewers and lots more.
   - [Parking Zones](https://mapping.eugene-or.gov/apps/1360a29377d74f3193d4e5626f217a32/explore)
   - [Urban Forest](https://mapping.eugene-or.gov/apps/8c2c6e0c1599456dabd1f18fbbf6676c/explore)
   - [Zoning](https://mapping.eugene-or.gov/apps/972e17b24da94f849c6068872108968f/explore)
@@ -35,12 +35,15 @@ at 125 E 8th Ave.
 
 ### Traffic Safety
 * [report Eugene traffic safety problems](https://mapping.eugene-or.gov/apps/Eugene-PWE::vision-zero/explore) Interactive map of traffic issues.
+* [ODOT Crashes](https://www.oregon.gov/ODOT/Data/Pages/Crash.aspx) Landing page for ODOT crash data.
+* [ODOT Crash Data Viewer](https://www.oregon.gov/odot/Data/Pages/Crash-Data-Viewer.aspx) Map crashes by location, street, many other filters. PDF Export.
+* [ODOT Crash Reports](https://tvc.odot.state.or.us/tvc/) Generate crash reports in Excel or PDF by locations, street, severity, type.
 
 ### Central Lane Metropolitan Planning Organization
 
 [Central Lane MPO Data Portal](https://www.lcog.org/thempo/page/data)
 * [Commuter data](https://www.lcog.org/thempo/page/commuter-data)
-* [Crash data](https://www.lcog.org/thempo/page/crash-data)
+* [Crash data](https://www.lcog.org/thempo/page/crash-data) Replicated from ODOT data.
 * [Demographics & Socioeconomics](https://www.lcog.org/thempo/page/demographics-socioeconomics)
 * [Traffic count data](https://www.lcog.org/thempo/page/traffic-count-data)
 * [Transit data](https://www.lcog.org/thempo/page/tranit-data)
