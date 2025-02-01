@@ -10,6 +10,7 @@ A list of resources for finding information about Eugene, Oregon.
 * [Lane Regional Land Information Database](https://www.rlid.org) - subscription
 * [Lane County Easy Property Information Lookup](https://lcmaps.lanecounty.org/propertysearchnew/)
 * [Eugene Building Permit Search](https://pdd.eugene-or.gov/buildingpermits/permitsearch) 
+* [Eugene Planning Application Search](https://pdd.eugene-or.gov/LandUse/ApplicationSearch) 
 
 For historical property information,
 visit the [Lane County Public Research Library](https://www.lanecounty.org/cms/One.aspx?portalId=3585881&pageId=4116371)
