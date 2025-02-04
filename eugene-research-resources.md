@@ -26,9 +26,15 @@ at 125 E 8th Ave.
   - [Zoning](https://mapping.eugene-or.gov/apps/972e17b24da94f849c6068872108968f/explore)
   - [Ward Map with 2020 Census blocks](https://mapping.eugene-or.gov/apps/4a0fa873da3146f38413c060c3f30e4a/explore)
 * [Find your Ward and Neighborhood Association](https://www.eugene-or.gov/532/Find-Your-Ward)
+
 * [Lane County Zone and Plan Map Viewer](https://lcmaps.lanecounty.org/LaneCountyMaps/ZoneAndPlanMapsApp/index.html)
 * [Lane County SIDO Maps](https://lcmaps.lanecounty.org/LaneCountyMaps/SIDOMapsApp/index.html) Aerial photos and more
 * [Lane County Web App Tutorial](https://lcmaps.lanecounty.org/GISHelp/Tutorial/WebApplicationTutorialWAB.pdf)
+
+* [City of Springfield Mapping Hub](https://data-sporgis.hub.arcgis.com/) Maps, and about 20 downloadable data sets: streets, parks, sewers and lots more.
+
+* [Oregon GeoHub](https://geohub.oregon.gov/)
+* [Oregon 2020 Census Tracts](https://geohub.oregon.gov/datasets/oregon-geo::2020-census-tracts/explore)
 
 ### Street Classifications
 * [Eugene Street Classification Map](https://www.eugene-or.gov/DocumentCenter/View/43142/Eugene_Street_Classification_Map)
@@ -59,6 +65,14 @@ at 125 E 8th Ave.
 * [Census Reporter](https://censusreporter.org) Independent project to make American Community Survey data easier to use.
 * [IPUMS](https://www.ipums.org/) Census and survey data from around the world. Requires registration.
 * [American Community Survey](https://www.census.gov/programs-surveys/acs/) Census Bureau spot surveys - transportation, housing, etc.
+
+FIPS codes:
+* Oregon: 41
+* Lane County: 039
+* Eugene: 41-23850
+
+GNIS codes:
+* Eugene: 2410460
 
 ## Weather & Air
 * [National Weather Service Eugene Forecast](https://forecast.weather.gov/MapClick.php?lat=44.0522&lon=-123.0912)
