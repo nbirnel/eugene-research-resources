@@ -77,7 +77,6 @@ GNIS codes:
 ## Weather & Air
 * [National Weather Service Eugene Forecast](https://forecast.weather.gov/MapClick.php?lat=44.0522&lon=-123.0912)
 * [Lane Regional Air Protection Agency](https://www.lrapa.org/air-quality-protection/current-aqi/) Air quality monitors, and exportable search data.
-* [Lane Regional Air Protection Agency](https://www.lrapa.org/air-quality-protection/current-aqi/) Air quality monitors, and exportable search data.
 * [Purple Air](https://map.purpleair.com/air-quality-standards-us-epa-aqi?opt=%2F1%2Flp%2Fa10%2Fp604800%2FcC0#11.35/44.0553/-123.0899) For-profit air sensor company, publishes maps of its sensor results.
 * [National Weather Service Eugene Station](https://www.weather.gov/nwr/sites?site=KEC42) KEC42 Broadcasting at 162.400
 
