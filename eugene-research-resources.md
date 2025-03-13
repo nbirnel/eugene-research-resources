@@ -160,6 +160,7 @@ ancestry.com free at some libraries.
 ### Internet-only
 * [Whole Community News](https://wholecommunity.news) Project of non-profit Corporation for Public Community Newspapers. Carries KEPW content, context-less transcripts of public meetings, and editorials.
 * [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independent news out of Oakridge.
+* [Lookout Eugene-Springfield](https://lookouteugene-springfield.com/) Paid online news, set to launch in April 2025. Free for high school students. Owned by a Lookout Local, an online news corporation in Santa Cruz, CA.
 
 ## Elections
 * [Lane County Election Results](https://www.lanecounty.org/government/county_departments/county_administration/operations/county_clerk/elections/historical_election_details) Historical and current. At least some by precinct.
