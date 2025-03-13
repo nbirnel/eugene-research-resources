@@ -65,6 +65,7 @@ at 125 E 8th Ave.
 * [Census Reporter](https://censusreporter.org) Independent project to make American Community Survey data easier to use.
 * [IPUMS](https://www.ipums.org/) Census and survey data from around the world. Requires registration.
 * [American Community Survey](https://www.census.gov/programs-surveys/acs/) Census Bureau spot surveys - transportation, housing, etc.
+* [U.S. Census TIGER/Line® Shapefiles](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) Census Shapefiles for GIS, back to 2007
 
 FIPS codes:
 * Oregon: 41
