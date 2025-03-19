@@ -62,6 +62,7 @@ at 125 E 8th Ave.
 * [Oregon All Active Businesses](https://data.oregon.gov/business/Active-Businesses-ALL/tckn-sxa6/data) Filter Oregon businesses and export in various data formats. Amazing.
 
 ## Current Census 
+* [Census Quick Facts for Eugene](https://www.census.gov/quickfacts/fact/table/eugenecityoregon/PST045223)
 * [Census Aggregator: Downtown Eugene](https://www.city-data.com/neighborhood/Downtown-Eugene-OR.html)
 * [Census Reporter](https://censusreporter.org) Independent project to make American Community Survey data easier to use.
 * [IPUMS](https://www.ipums.org/) Census and survey data from around the world. Requires registration.
