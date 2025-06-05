@@ -7,7 +7,7 @@ A list of resources for finding information about Eugene, Oregon.
 * [Find Lane County Property Information by Account Number, Map and Tax Lot, Address or Name](https://apps.lanecounty.org/PropertyAccountInformation/#)
   This is the one I like.
 * [Lane County Property Lookup](https://www.rlid.org/custom/lc/at/)
-* [Lane Regional Land Information Database](https://www.rlid.org) - subscription
+* [Lane Regional Land Information Database](https://www.rlid.org) - subscription. Neighborhood Associations have access to this.
 * [Lane County Easy Property Information Lookup](https://lcmaps.lanecounty.org/propertysearchnew/)
 * [Eugene Building Permit Search](https://pdd.eugene-or.gov/buildingpermits/permitsearch) 
 * [Eugene Planning Application Search](https://pdd.eugene-or.gov/LandUse/ApplicationSearch) 
@@ -172,10 +172,18 @@ ancestry.com free at some libraries.
 * [Federal Election Commission: How to research public records](https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/)
 * [OpenSecrets](https://www.opensecrets.org/donor-lookup) Nonprofit that tracks money in U.S. politics.
 
+## State of Oregon Open Data Portal
+[State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account.
+Hundreds of datasets. 
+Query, visualize, and export.
+Has an API.
+
+* [All Active Businesses](https://data.oregon.gov/business/Active-Businesses-ALL/tckn-sxa6/data)
+* [New Businesses Registered Last Month](https://data.oregon.gov/business/New-Businesses-Registered-Last-Month/esjy-u4fc/about_data)
+* [Oregon Public Meetings](https://data.oregon.gov/dataset/Oregon-Public-Meetings/gs36-7t8m/about_data)
 
 ## Miscellaneous
 * [City of Eugene Public Records Request](https://eugeneor.justfoia.com/publicportal/home/newrequest) Police, planning, fire marshall, and other. Fees.
-* [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account. Has an API.
-* [League of Oregon Cities Open Data Portal](https://data.orcities.org/)
+* [League of Oregon Cities Open Data Portal](https://data.orcities.org/) Not much activity in the last few years.
 * [OSint - how to research anything](https://osintframework.com/)
 * [Oregon Health Authority Vital Statistics](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/Pages/index.aspx) Births, deaths, etc, and some nice maps
