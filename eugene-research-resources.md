@@ -174,6 +174,11 @@ ancestry.com free at some libraries.
 
 ## Laws
 * [Eugene Ordinance Table](https://eugene.municipal.codes/EC/OT) 
+* [Eugene Charter](https://www.eugene-or.gov/DocumentCenter/View/456/Eugene-Charter-2002-updated-2019)
+* [Lane County Code](https://www.lanecountyor.gov/how_do_i/view/lane_code)
+* [Lane County Home Rule Charter](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Homepage%20Information/HOME%20RULE%20CHARTER%20FOR%20LANE%20COUNTY%202012_12_04.pdf)
+* [Oregon Revised Statutes](https://oregon.public.law/statutes)
+* [Oregon Constitution]("https://sos.oregon.gov/blue-book/Pages/state-constitution.aspx)
 
 ## State of Oregon Open Data Portal
 [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account.
@@ -186,6 +191,7 @@ Has an API.
 * [Oregon Public Meetings](https://data.oregon.gov/dataset/Oregon-Public-Meetings/gs36-7t8m/about_data)
 
 ## Miscellaneous
+* [Oregon Blue Book](https://sos.oregon.gov/blue-book/Pages/about.aspx) State of Oregon's official almanac and fact book. Available in print.
 * [City of Eugene Public Records Request](https://eugeneor.justfoia.com/publicportal/home/newrequest) Police, planning, fire marshall, and other. Fees.
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/) Not much activity in the last few years.
 * [OSint - how to research anything](https://osintframework.com/)
