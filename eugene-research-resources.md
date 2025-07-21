@@ -138,6 +138,10 @@ ancestry.com free at some libraries.
 
 ## News Sources
 
+### Internet-only
+* [Lookout Eugene-Springfield](https://lookouteugene-springfield.com/) Free online professional journalism, with paid membership options. Free for high school students. Owned by a Lookout Local, an online news corporation in Santa Cruz, CA.
+* [Whole Community News](https://wholecommunity.news) Project of non-profit Corporation for Public Community Newspapers. Carries KEPW content, context-less transcripts of public meetings, and editorials.
+* [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independent news out of Oakridge.
 ### Print
 * [Eugene Weekly](https://eugeneweekly.coma/) Locally owned "alternative" weekly. Events, some news, mildly liberal editorial stance.
 * [Daily Emerald](https://dailyemerald.com/) UO student newspaper. Some city news reporting.
@@ -159,10 +163,6 @@ ancestry.com free at some libraries.
 * [KMTR 16](https://nbc16.com) NBC/CW, owned by Roberts Media LLC, operated by Sinclair Broadcast Group.
 * [KEVU-CD 23](http://www.oregonsfox.com/kevu.html) MyNetworkTV, owned by Cox Media Group. Rebroadcasts "Good Day Oregon" from Portland FOX station KPTV.
 * [KLSR 24](http://www.oregonsfox.com/) FOX, owned by Cox Media Group.
-### Internet-only
-* [Whole Community News](https://wholecommunity.news) Project of non-profit Corporation for Public Community Newspapers. Carries KEPW content, context-less transcripts of public meetings, and editorials.
-* [Highway 58 Herald](https://highway58herald.com) "News of the Upper Willamette" Independent news out of Oakridge.
-* [Lookout Eugene-Springfield](https://lookouteugene-springfield.com/) Paid online news, set to launch in April 2025. Free for high school students. Owned by a Lookout Local, an online news corporation in Santa Cruz, CA.
 
 ## Elections
 * [Lane County Election Results](https://www.lanecounty.org/government/county_departments/county_administration/operations/county_clerk/elections/historical_election_details) Historical and current. At least some by precinct.
