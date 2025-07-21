@@ -172,6 +172,9 @@ ancestry.com free at some libraries.
 * [Federal Election Commission: How to research public records](https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/)
 * [OpenSecrets](https://www.opensecrets.org/donor-lookup) Nonprofit that tracks money in U.S. politics.
 
+## Laws
+* [Eugene Ordinance Table](https://eugene.municipal.codes/EC/OT) 
+
 ## State of Oregon Open Data Portal
 [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account.
 Hundreds of datasets. 
