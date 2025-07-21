@@ -178,7 +178,7 @@ ancestry.com free at some libraries.
 * [Lane County Code](https://www.lanecountyor.gov/how_do_i/view/lane_code)
 * [Lane County Home Rule Charter](https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Homepage%20Information/HOME%20RULE%20CHARTER%20FOR%20LANE%20COUNTY%202012_12_04.pdf)
 * [Oregon Revised Statutes](https://oregon.public.law/statutes)
-* [Oregon Constitution]("https://sos.oregon.gov/blue-book/Pages/state-constitution.aspx)
+* [Oregon Constitution](https://sos.oregon.gov/blue-book/Pages/state-constitution.aspx)
 
 ## State of Oregon Open Data Portal
 [State of Oregon Open Data Portal](https://data.oregon.gov) - requires free account.
