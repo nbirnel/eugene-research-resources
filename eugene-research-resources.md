@@ -196,3 +196,4 @@ Has an API.
 * [League of Oregon Cities Open Data Portal](https://data.orcities.org/) Not much activity in the last few years.
 * [OSint - how to research anything](https://osintframework.com/)
 * [Oregon Health Authority Vital Statistics](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/Pages/index.aspx) Births, deaths, etc, and some nice maps
+* [PSU Population Research Center](https://www.pdx.edu/population-research/) Intercensal population estimates for cities, counties, and entire state of Oregon.
