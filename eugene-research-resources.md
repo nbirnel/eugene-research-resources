@@ -46,6 +46,9 @@ at 125 E 8th Ave.
 * [ODOT Crashes](https://www.oregon.gov/ODOT/Data/Pages/Crash.aspx) Landing page for ODOT crash data.
 * [ODOT Crash Data Viewer](https://www.oregon.gov/odot/Data/Pages/Crash-Data-Viewer.aspx) Map crashes by location, street, many other filters. PDF Export.
 * [ODOT Crash Reports](https://tvc.odot.state.or.us/tvc/) Generate crash reports in Excel or PDF by locations, street, severity, type.
+* [NHTSA Crash Stats](https://crashstats.nhtsa.dot.gov/#!/) Landing page for Federal crash data
+* [FARS Tables](https://www-fars.nhtsa.dot.gov/Main/index.aspx) Summary table for Federal crash data
+
 
 ### Central Lane Metropolitan Planning Organization
 
@@ -135,6 +138,7 @@ ancestry.com free at some libraries.
 * [Eugene Police Public Records](https://www.eugene-or.gov/916/Public-Records-Office)
 * [Eugene Police Crime Statistics](https://www.eugene-or.gov/542/Crime-Statistics)
 * [Crime Mapping](https://www.crimemapping.com/map/agency/668) Private organization, mapping data from EPD.
+* [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend) Select crime, location, agency, and time frame.
 
 ## News Sources
 
