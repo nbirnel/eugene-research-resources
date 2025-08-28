@@ -19,6 +19,10 @@ at 125 E 8th Ave.
 * [Lane County Property Sales Map](https://lcmaps.lanecounty.org/LaneCountyMaps/PropertySales/index.html) Last three years. Exportable as csv.
 * [Lane County Surveyor's Images and Documents Online](http://apps.lanecounty.org/SIDO/default.aspx)
 
+## City Government
+
+* [City of Eugene Financial Reports](https://www.eugene-or.gov/107/Financial-Reports) Back to 2015
+A
 ## Maps
 * [City of Eugene Mapping Hub](https://mapping.eugene-or.gov/) About 90 maps, many with downloadable data sets: streets, parks, sewers and lots more.
   - [Parking Zones](https://mapping.eugene-or.gov/apps/1360a29377d74f3193d4e5626f217a32/explore)
