@@ -34,6 +34,7 @@ A
 * [Lane County Zone and Plan Map Viewer](https://lcmaps.lanecounty.org/LaneCountyMaps/ZoneAndPlanMapsApp/index.html)
 * [Lane County SIDO Maps](https://lcmaps.lanecounty.org/LaneCountyMaps/SIDOMapsApp/index.html) Aerial photos and more
 * [Lane County Web App Tutorial](https://lcmaps.lanecounty.org/GISHelp/Tutorial/WebApplicationTutorialWAB.pdf)
+* [Lane County Maps & GIS](https://www.lanecountyor.gov/government/county_departments/information_services/maps___g_i_s) Links to various maps, including commissioners
 
 * [City of Springfield Mapping Hub](https://data-sporgis.hub.arcgis.com/) Maps, and about 20 downloadable data sets: streets, parks, sewers and lots more.
 
