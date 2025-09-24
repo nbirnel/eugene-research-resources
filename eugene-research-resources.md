@@ -135,7 +135,7 @@ ancestry.com free at some libraries.
 ## Police, Fire, EMS, Jail
 
 * [Lane County Sheriff Incident Map](http://map.citizenserviceportal.com/home/agency?agencycode=EGS)
-* [Eugene Police Dispatch Log](https://coeapps.eugene-or.gov/EPDDispatchLog/Search) Nov 19, 2013 to present
+* [Eugene Police Dispatch Log](https://coeapps.eugene-or.gov/EPDDispatchLog/Home/Search) Nov 19, 2013 to present
 * [Eugene-Springfield Fire EMS CAD calls](https://coeapps.eugene-or.gov/ruralfirecad) Nov 19, 2013 to present
 * [Springfield Police Dispatch Log](https://coeapps.eugene-or.gov/SPDDispatchLog/Search) Dec 12, 2009 to present
 * [Lance County jail booking search](https://inmateinformation.lanecounty.org/Home/BookingSearchQuery) Unclear how far back this data goes.
