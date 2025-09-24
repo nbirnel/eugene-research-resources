@@ -125,6 +125,7 @@ ancestry.com free at some libraries.
 ### Historical Newspapers
 
 * [Google scans of Eugene Register-Guard, 1867-2008](https://books.google.com/books?id=H9ZVAAAAIBAJ)
+* [Alternate view: Google scans of Eugene Register-Guard, 1867-2008](https://news.google.com/newspapers?nid=4pF9x-cDGsoC)
 * [Eugene Register-Guard archives 2001-present](https://registerguard.newsbank.com/) Requires free account to search; Paid to view articles
 * [Eugene Register-Guard microfilm 1867-2018](https://eugene.libguides.com/magazines/newspapers-eugene) At the Downtown Library
 * [Eugene Register-Guard full text 2001-present, exact replica 2019-present](https://eugene.libguides.com/registerguard) Requires a library card
